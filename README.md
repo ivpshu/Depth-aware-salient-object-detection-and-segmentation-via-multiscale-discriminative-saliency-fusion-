@@ -1,14 +1,15 @@
 # Depth-aware-salient-object-detection-and-segmentation-via-multiscale-discriminative-saliency-fusion-
 
 #
-% This code is for "[1] H. Song; Z. Liu; H. Du; G. Sun; O. L. Meur; T. Ren, "Depth-aware Salient Object
+This code is for "[1] H. Song; Z. Liu; H. Du; G. Sun; O. L. Meur; T. Ren, "Depth-aware Salient Object
  Detection and Segmentation via Multiscale Discriminative Saliency Fusion
- and Bootstrap Learning," IEEE Transactions on Image Processing, vol. 26, no. 9, pp. 4204 - 4216, Jun. 2017., and can only be used for non-comercial purpose. 
-% If you use our code, please cite [1].
-% 
-% Code Author: Hangke Song
-% Email: hksong0209@163.com
-% Date: 2017.07.11
+ and Bootstrap Learning," IEEE Transactions on Image Processing, vol. 26, no. 9, pp. 4204 - 4216, Jun. 2017., and can only be used for non-comercial purpose. If you use our code, please cite [1].
+ 
+ Code and data can be down load in http://pan.baidu.com/s/1nvSIKsx
+ 
+ Email: hksong0209@163.com
+ 
+ Date: 2017.07.11
 #
 
 How to use:
